@@ -1,12 +1,13 @@
 <template>
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png" />
+    <h1>Performing intergation mirror copy.</h1>
   </div>
 </template>
 
 <script>
 export default {
-  name: "Home",
+  name: 'Home',
   components: {},
 };
 </script>
